@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @rudfor
+
+Migrating to self hosted gitlab.rudolffortes.com
+
 - 👀 I’m interested in Random Crap
 - 🌱 I’m currently learning Whavever intersts me
 - 💞️ I’m looking to collaborate on as little as possible
